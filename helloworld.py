@@ -1,10 +1,1 @@
-
-
-
-stage 
-
-commit 
-
-push
-
-
+print("Hello World")
